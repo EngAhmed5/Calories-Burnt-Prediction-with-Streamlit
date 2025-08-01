@@ -6,10 +6,11 @@ A machine learning regression project to predict calories burnt during physical 
 
 ## Problem Statement
 
-Accurately estimating calories burnt is vital for fitness tracking and health monitoring. This project predicts calories burnt based on features like gender, age, height, weight, exercise duration, heart rate, and body temperature.
+Accurately estimating calories burned is vital for fitness tracking and health monitoring. This project predicts calories burnt based on features like gender, age, height, weight, exercise duration, heart rate, and body temperature.
 
 ## Project Structure
 
+```bash
 Calories Burnt Prediction/
 ├── Data/
 │   └── data.csv                        # Raw dataset
@@ -36,7 +37,7 @@ Calories Burnt Prediction/
 
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## Models & Performance
