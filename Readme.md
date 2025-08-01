@@ -1,4 +1,4 @@
-# Calories Burnt Prediction
+# Calories Burnt Prediction with Streamlit
 
 A machine learning regression project to predict calories burnt during physical activities using personal and physiological features. The project covers data preprocessing, model training, evaluation, and deployment with a Streamlit app.
 
