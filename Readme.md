@@ -38,7 +38,19 @@ Calories Burnt Prediction/
 ├── requirements.txt
 └── README.md
 ```
+
 ---
+
+### Evaluation Metrics
+
+- Mean Squared Error (MSE)
+
+- Root Mean Squared Error (RMSE)
+
+- R² Score (Coefficient of Determination)
+
+---
+
 
 ## Models & Performance
 
@@ -54,7 +66,7 @@ Calories Burnt Prediction/
 
 ## How to Run
 
-1. Clone the repo or navigate to project directory.
+1. Clone the repo or navigate to the project directory.
 2. Install dependencies:
 
    ```bash
@@ -62,39 +74,29 @@ Calories Burnt Prediction/
 
 ## Run training and evaluation
 
-python Model/main.py
+- python Model/main.py
 
 ## Run the interactive app
 
-streamlit run Streamlit_App/app.py
+- streamlit run Streamlit_App/app.py
 
 ---
 
 ### Technologies Used
 
-Python
+- Python
 
-Pandas / NumPy
+- Pandas / NumPy
 
-Scikit-learn
+- Scikit-learn
 
-XGBoost
+- XGBoost
 
-Streamlit
+- Streamlit
 
-Joblib
+- Joblib
 
----
 
-### Evaluation Metrics
-
-- Mean Squared Error (MSE)
-
-- Root Mean Squared Error (RMSE)
-
-- R² Score (Coefficient of Determination)
-
----
 
 ### Author
 
