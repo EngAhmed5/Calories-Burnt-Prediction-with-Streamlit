@@ -41,7 +41,7 @@ Calories Burnt Prediction/
 
 ---
 
-### Evaluation Metrics
+## Evaluation Metrics
 
 - Mean Squared Error (MSE)
 
@@ -82,7 +82,7 @@ Calories Burnt Prediction/
 
 ---
 
-### Technologies Used
+## Technologies Used
 
 - Python
 
