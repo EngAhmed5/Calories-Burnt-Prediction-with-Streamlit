@@ -9,39 +9,7 @@ A machine learning regression project to predict calories burnt during physical 
 Accurately estimating calories burnt is vital for fitness tracking and health monitoring. This project predicts calories burnt based on features like gender, age, height, weight, exercise duration, heart rate, and body temperature.
 
 ---
-
-## Project Structure
-
-Calories Burnt Prediction/
-├── Data/
-│ └── data.csv # Raw dataset
-│
-├── EDA/
-│ └── EDA.ipynb # Exploratory Data Analysis notebook
-│
-│
-├── Model/
-│ ├── data_processing.py # Data loading, splitting, scaling, encoding
-│
-│ ├── modeling.py # Model selection, training, saving, loading
-│
-│ ├── evaluate.py # Evaluation metrics
-│
-│ ├── main.py # Full pipeline script
-│
-│ ├── app.py # Streamlit app for interactive prediction
-│
-├── Saved Models/
-│
-│ ├── Linear Regression.pkl
-│ ├── Ridge.pkl
-│ ├── Random Forest Regressor.pkl
-│ ├── SVR.pkl
-│ └── XGB Regressor.pkl # Saved models with scalers & encoders
-│
-├── Results/
-│ └── [Evaluation outputs]
-
+<pre> ```bash Calories Burnt Prediction/ ├── Data/ │ └── data.csv # Raw dataset │ ├── EDA/ │ └── EDA.ipynb # Exploratory Data Analysis notebook │ ├── Model/ │ ├── data_processing.py # Data loading, splitting, scaling, encoding │ ├── modeling.py # Model selection, training, saving, loading │ ├── evaluate.py # Evaluation metrics │ ├── main.py # Full pipeline script │ ├── app.py # Streamlit app for interactive prediction │ ├── Saved Models/ │ ├── Linear Regression.pkl │ ├── Ridge.pkl │ ├── Random Forest Regressor.pkl │ ├── SVR.pkl │ └── XGB Regressor.pkl # Saved models with scalers & encoders │ ├── Results/ │ └── [Evaluation output images] │ ├── requirements.txt └── README.md ``` </pre>
 ---
 
 ## Models & Performance
